@@ -36,3 +36,4 @@
 - git config --global core.editor "code --wait" (Default code editor)
 - git config --global core.autocrlf "input" (Optimized line ending)
 - git config --global -e (for edit)
+- git config --global --list 
