@@ -26,7 +26,7 @@
 
 ## Going back some previous saved points 
         - Logging everything 
-        - Reverting back to the previous saved points 
+        - Reverting back to the previous saved points(git reset --hard HEAD~1)
 
 ## Git configuration :
 
