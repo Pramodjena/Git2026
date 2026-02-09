@@ -13,7 +13,7 @@
 
 ## Commands you need to know :
 - git status -s => to know current status of staged or unstaged files 
-- git log --online => to know current status of saved points 
+- git log --oneline => to know current status of saved points 
 
 
 ## Managing your own projects :
