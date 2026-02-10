@@ -37,4 +37,4 @@
 - git config --global core.autocrlf "input" (Optimized line ending)
 - git config --global -e (for edit)
 - git config --global --list 
-
+- git log --oneline --graph
