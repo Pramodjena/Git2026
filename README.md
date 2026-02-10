@@ -41,5 +41,14 @@
 - git branch (Check all branch)
 - git branch feature/navbar (create branch) * means we are in that branch
 - git switch feature/navbar(to switch)
+- git switch -C feature/home (create and switch)
 - git merge feature/navbar (for merging with main)
-- git branch -d feature/navbar(for delete)
+- git branch -d feature/navbar(for delete) do it in live 
+- Deleted branch feature/home (was 4aa9d23).
+
+## Merging techniques :
+- Fast forward merge 
+- Three way merge 
+- Squash merging 
+- Recursive strategy merge 
+- Rebase and merge 
