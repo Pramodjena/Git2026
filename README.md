@@ -52,3 +52,9 @@
 - Squash merging 
 - Recursive strategy merge 
 - Rebase and merge 
+
+## Stashing 
+
+- git stash (for storing stash)
+- git stash apply (for apply stash in any branch)
+- git stash clear (to clear the stash)
