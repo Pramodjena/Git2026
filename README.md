@@ -74,3 +74,8 @@
 - Commit after completion 
 - Inform to teammate after commit 
 - Tl will fetch and merge then re-push 
+- Tl `git fetch` then check the branch using `git branch`
+- Branches will show you up 
+- Then switch to that branch 
+- Then if code is fine and correct then merge it with main branch (`git merge`) 
+- Then team-mates switch to main branch(`git switch main`) then `git fetch` then `git pull`or directly `git pull`
