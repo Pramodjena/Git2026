@@ -59,3 +59,18 @@
 - git stash apply (for apply stash in any branch)
 - git stash clear (to clear the stash)
 
+- git branch -d feature/navbar(for delete)
+
+
+## Collaboration :
+
+### Common steps need to follow :
+- Tl will create folder and initial files 
+- Create a repo in github 
+- Add collaborator 
+- Clone that repo in your local machine 
+- Create your own branch (vvvIP) before writing any code 
+- Write your code in your branch only 
+- Commit after completion 
+- Inform to teammate after commit 
+- Tl will fetch and merge then re-push 
