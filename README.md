@@ -55,11 +55,11 @@
 
 ## Stashing 
 
-- git stash (for storing stash)
-- git stash apply (for apply stash in any branch)
-- git stash clear (to clear the stash)
+- `git stash `(for storing stash)
+- `git stash apply` (for apply stash in any branch)
+- `git stash clear` (to clear the stash)
 
-- git branch -d feature/navbar(for delete)
+- `git branch -d feature/navbar`(for delete)
 
 
 ## Collaboration :
