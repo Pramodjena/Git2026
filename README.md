@@ -12,8 +12,8 @@
 - Committed 
 
 ## Commands you need to know :
-- git status -s => to know current status of staged or unstaged files 
-- git log --oneline => to know current status of saved points 
+- `git status -s` => to know current status of staged or unstaged files 
+- `git log --oneline` => to know current status of saved points 
 
 
 ## Managing your own projects :
@@ -30,20 +30,20 @@
 
 ## Git configuration :
 
-- git config --global user.name "Username"
-- git config --global user.email "user@gmail.com"
+- `git config --global user.name "Username"`
+- `git config --global user.email "user@gmail.com"`
 
-- git config --global core.editor "code --wait" (Default code editor)
-- git config --global core.autocrlf "input" (Optimized line ending)
-- git config --global -e (for edit)
-- git config --global --list 
-- git log --oneline --graph
-- git branch (Check all branch)
-- git branch feature/navbar (create branch) * means we are in that branch
-- git switch feature/navbar(to switch)
-- git switch -C feature/home (create and switch)
-- git merge feature/navbar (for merging with main)
-- git branch -d feature/navbar(for delete) do it in live 
+- `git config --global core.editor "code --wait" `(Default code editor)
+- `git config --global core.autocrlf "input"` (Optimized line ending)
+- `git config --global -e` (for edit)
+- `git config --global --list `
+- `git log --oneline --graph`
+- `git branch` (Check all branch)
+- `git branch feature/navbar `(create branch) * means we are in that branch
+- `git switch feature/navbar`(to switch)
+- `git switch -C feature/home` (create and switch)
+- `git merge feature/navbar` (for merging with main)
+- `git branch -d feature/navbar`(for delete) do it in live 
 - Deleted branch feature/home (was 4aa9d23).
 
 ## Merging techniques :
