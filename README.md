@@ -71,7 +71,7 @@
 - Clone that repo in your local machine 
 - Create your own branch (vvvIP) before writing any code 
 - Write your code in your branch only 
-- Commit after completion 
+- Commit and push after completion 
 - Inform to teammate after commit 
 - Tl will fetch and merge then re-push 
 - Tl `git fetch` then check the branch using `git branch`
